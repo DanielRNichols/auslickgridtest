@@ -1,0 +1,19 @@
+<template>
+
+  <h3>${heading}</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>Id</th>
+        <th>Name</th>
+      </tr>
+    </thead>
+    <tbody repeat.for="row of tabledata">
+      <tr>
+        <td>${row.id}</td>
+        <td>${row.name}</td>
+      </tr>
+    </tbody>
+  </table>
+
+</template> 
