@@ -1,4 +1,4 @@
-# `au-ts-2`
+# `aurelia-slick-grid-test`
 
 This project is bootstrapped by [aurelia-cli](https://github.com/aurelia/cli).
 
