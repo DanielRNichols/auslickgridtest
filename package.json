@@ -12,7 +12,7 @@
     "@types/jquery": "^3.3.32",
     "aurelia-animator-css": "^1.0.4",
     "aurelia-bootstrapper": "^2.3.2",
-    "aurelia-slickgrid": "^2.17.4",
+    "aurelia-slickgrid": "^2.23.1",
     "bootstrap": "^4.4.1",
     "jquery": "^3.4.1",
     "popper.js": "^1.16.1"
